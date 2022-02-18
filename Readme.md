@@ -8,4 +8,4 @@
     <li>Scrapy</li>
 </ul>
 
-#### I hope anyone seeing this would make use of this as well. Chhers!
+#### I hope anyone seeing this would make use of this as well. Cheers!
